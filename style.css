@@ -1,0 +1,12 @@
+body {
+    text-align:center;
+}
+#game {
+    background-color: greenyellow;
+}
+#app {
+    background-color: blueviolet;
+}
+#chatbot {
+    background-color:wheat;
+}
